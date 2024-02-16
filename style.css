@@ -4,3 +4,7 @@ body {
 .para1 {
   font-size: 1rem;
 }
+.section {
+  font-size: 1rem;
+  color: bisque;
+}
